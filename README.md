@@ -1,32 +1,40 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# Greetings, Code Enthusiasts! 👨‍💻✨
 
+I'm Grey, your friendly neighborhood Software Engineer originating from the vibrant landscapes of Nigeria and currently immersed in the tech scene in Nicosia, Cyprus 🇨🇾
 
-<p>Welcome to my page! </br> I'm Bobby, a frontend developer from <b> Nigeria</b>, currently living in <b>Nicosia, Cyprus</b>. </p>
-<h3> Techstack Includes </h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+Within the realms of this GitHub repository, witness the culmination of my coding adventures—where lines of code converge to create something truly extraordinary.
 
-## Stats
+## Projects I've Worked On
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=B0bbycode&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/B0bbycode)
+1. **LinconStore - Marketplace Platform**
+   - [LinconStore](https://linconstore.com){:target="_blank"} is a dynamic marketplace connecting users to buyers in Europe and North America. Explore a seamless platform designed to enhance user experience and streamline transactions.
+
+2. **EchoRealty - Real Estate Website**
+   - Dive into the world of real estate with [EchoRealty](https://test.echorealty.co){:target="_blank"}. This website is designed to provide a comprehensive and user-friendly experience for individuals interested in buying, selling, or renting properties.
+
+3. **JobMint - Professional Networking Social Media**
+   - Currently in development, [JobMint](#){:target="_blank"} is a cutting-edge professional networking social media platform. Elevate your professional portfolio as individuals connect and collaborate in the ever-expanding landscape of career opportunities.
+
+## Tech Stack
+
+- **Frontend:** React, TypeScript, Sass, Styled Components
+- **Backend:** C#, C++, Node.js
+- **Build Tools:** Webpack, GitHub Actions
+- **Cloud Platforms:** Google Cloud Platform, DigitalOcean, Heroku
+- **Server:** Ubuntu Server
+- **Database:** MongoDB
+- **Other:** Git, NPM
+
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GreyCode&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/GreyCode)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreyCode&layout=compact&theme=radical)
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/olalekan)
-- [Twitter](https://x.com/b0bbycode)
-- [Portfolio](https://linconwavesinnovation.com)
+- [LinkedIn](https://linkedin.com/olalekan){:target="_blank"}
+- [Twitter](https://x.com/B0bbyode){:target="_blank"}
+- [Projects](https://linconwavesinnovation.com){:target="_blank"}
 
-Feel free to explore my repositories and reach out! 😊
+Embark on this coding odyssey with me, and let's turn imagination into innovation! 🚀
