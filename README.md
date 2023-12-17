@@ -25,8 +25,8 @@
 
 ## Connect with Me
 
-- [LinkedIn](LinkedIn Profile URL)
-- [Twitter](Twitter Profile URL)
-- [Portfolio](Portfolio or Blog URL)
+- [LinkedIn](https://linkedin.com/olalekan)
+- [Twitter](https://x.com/b0bbycode)
+- [Portfolio](https://linconwavesinnovation.com)
 
 Feel free to explore my repositories and reach out! 😊
