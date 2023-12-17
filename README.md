@@ -1,5 +1,3 @@
-# Greetings, Code Enthusiasts! 👨‍💻✨
-
 I'm Grey, your friendly neighborhood Software Engineer originating from the vibrant landscapes of Nigeria and currently immersed in the tech scene in Nicosia, Cyprus 🇨🇾
 
 Within the realms of this GitHub repository, witness the culmination of my coding adventures—where lines of code converge to create something truly extraordinary.
@@ -35,9 +33,7 @@ Within the realms of this GitHub repository, witness the culmination of my codin
 
 
 ## Connect with Me
-
-- [LinkedIn](https://linkedin.com/olalekan) ^
-- [Twitter](https://x.com/B0bbyode) ^
-- [Projects](https://linconwavesinnovation.com) ^
+- [Twitter](https://x.com/B0bbyode) 
+- [Projects](https://linconwavesinnovation.com) 
 
 Embark on this coding odyssey with me, and let's turn imagination into innovation! 🚀
