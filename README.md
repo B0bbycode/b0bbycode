@@ -37,6 +37,19 @@ Within the realms of this GitHub repository, witness the culmination of my codin
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=B0bbycode&theme=onedark)
 
+## Additional GitHub Stats and Elements
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=B0bbycode&theme=github)
+
+![](https://komarev.com/ghpvc/?username=B0bbycode&color=blue)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B0bbycode&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B0bbycode&repo=repo-name)](https://github.com/B0bbycode/repo-name)
+
+![Metrics](https://metrics.lecoq.io/B0bbycode?template=classic&base.header=0&languages=1&isocalendar=1&isocalendar.duration=1&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FLagos)
+
+
 
 ## Connect with Me
 
