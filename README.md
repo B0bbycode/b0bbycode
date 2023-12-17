@@ -31,11 +31,9 @@ Within the realms of this GitHub repository, witness the culmination of my codin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B0bbycode&layout=compact&theme=radical)
 
-![Contributions in the Last Year](https://img.shields.io/github/commit-activity/y/B0bbycode?color=blue&style=flat-square)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B0bbycode&theme=dark)
 
-![Metrics](https://metrics.lecoq.io/B0bbycode?template=classic&base.header=0&languages=1&isocalendar=1&isocalendar.duration=1&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FLagos)
+![Metrics](https://metrics.lecoq.io/B0bbycode?template=classic&base.header=0&languages=1&isocalendar=1&isocalendar.duration=1&languages.colors=github&languages.threshold=0%25&)
 
 
 
