@@ -18,3 +18,15 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+## Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=B0bbycode&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/B0bbycode)
+
+## Connect with Me
+
+- [LinkedIn](LinkedIn Profile URL)
+- [Twitter](Twitter Profile URL)
+- [Portfolio](Portfolio or Blog URL)
+
+Feel free to explore my repositories and reach out! 😊
