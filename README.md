@@ -33,9 +33,6 @@ Within the realms of this GitHub repository, witness the culmination of my codin
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B0bbycode&theme=dark)
 
-![Metrics](https://metrics.lecoq.io/B0bbycode?template=classic&base.header=0&languages=1&isocalendar=1&isocalendar.duration=1&languages.colors=github&languages.threshold=0%25&)
-
-
 
 ## Connect with Me
 
