@@ -25,7 +25,7 @@ Within the realms of this GitHub repository, witness the culmination of my codin
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=B0bbycode&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/B0bbycode)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=B0bbycode&show_icons=true&count_private=true&show=contribs,prs&theme=radical)](https://github.com/B0bbycode)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B0bbycode&layout=compact&theme=radical)
 
