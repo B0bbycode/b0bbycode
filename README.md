@@ -3,7 +3,7 @@ I'm Grey, your friendly neighborhood Software Engineer originating from the vibr
 ## Projects I've Worked On
 
 1. **Linconstore - Marketplace Platform**
-   - [Linconstore](https://linconstore.com)  is a dynamic marketplace connecting users to buyers in Europe and North America.
+   - [Linconstore](https://linconstore.com)  is a dynamic marketplace connecting users to sellers in Europe and North America.
 
 2. **EchoRealty - Real Estate Website**
    - Dive into the world of real estate with [EchoRealty](https://test.echorealty.co) 
