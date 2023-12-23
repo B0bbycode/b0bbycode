@@ -1,4 +1,4 @@
-I'm Grey, your friendly neighborhood Software Engineer originating from the vibrant landscapes of Nigeria and currently immersed in the tech scene in Nicosia, Cyprus 🇨🇾
+I'm Grey, your friendly neighborhood Software Engineer originating from the vibrant landscapes of Nigeria 
 
 ## Projects I've Worked On
 
